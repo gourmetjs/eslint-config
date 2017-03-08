@@ -30,3 +30,6 @@ You can choose a configuration set based on the type of your target environment 
 - `node_es6`: Node with ES6 syntax (default)
 - `gourmet`: Gourmet Runtime
 - `gourmet_jsx`: Gourmet Runtime with ES6 syntax
+- `browser`: Browser
+- `browser_cjs`: Browser using CommonJS
+- `browser_cjs_es6`: Browser using CommonJS with ES6 syntax
