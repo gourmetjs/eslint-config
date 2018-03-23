@@ -1,7 +1,9 @@
 module.exports = {
   extends: "./cjs.js",
   globals: {
-    __gourmet__: true
+    DEBUG: true,
+    SERVER: true,
+    CLIENT: true
   },
   parserOptions: {
     ecmaFeatures: {
