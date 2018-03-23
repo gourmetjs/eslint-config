@@ -1,11 +1,6 @@
 module.exports = {
-  extends: "./cjs.js",
-  globals: {
-    DEBUG: true,
-    SERVER: true,
-    CLIENT: true
-  },
   parserOptions: {
+    sourceType: "module",
     ecmaFeatures: {
       impliedStrict: true
     }

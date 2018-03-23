@@ -7,7 +7,8 @@ module.exports = {
     strict: ["error", "global"],
     eqeqeq: ["error", "smart"],
     "no-redeclare": ["error", {builtinGlobals: true}],
-    "no-caller": "error"
+    "no-caller": "error",
+    "no-console": "off"
   },
   globals: {
     Promise: true
