@@ -25,5 +25,6 @@ module.exports = {
 You can choose a configuration set based on the type of your target environment by specifying the name after a slash like `"gourmet/node"`.
 
 - `node`: Node with ES6 syntax (default)
+- `react`: React Isomorphic App
 - `gourmet_app`: Gourmet applications
 - `gourmet_lib`: Gourmet libraries using CommonJS only

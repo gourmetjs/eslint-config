@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-gourmet",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "ESLint shareable config for the Gourmet style",
   "license": "MIT",
   "repository": "https://github.com/gourmetjs/eslint-config",
