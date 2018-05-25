@@ -8,7 +8,8 @@ module.exports = {
     eqeqeq: ["error", "smart"],
     "no-redeclare": ["error", {builtinGlobals: true}],
     "no-caller": "error",
-    "no-console": "off"
+    "no-console": "off",
+    "comma-dangle": ["error", "never"]
   },
   globals: {
     Promise: true
