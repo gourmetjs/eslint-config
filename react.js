@@ -4,7 +4,7 @@ module.exports = {
     "./partials/browser.js",
     "./partials/node.js",
     "./partials/commonjs.js",
-    "./partials/es6.js",
+    "./partials/es.js",
     "./partials/jsx.js"
   ]
 };
