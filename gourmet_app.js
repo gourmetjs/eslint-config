@@ -6,6 +6,7 @@ module.exports = {
     "./partials/gourmet_globals.js",
     "./partials/es.js",
     "./partials/modules.js",
-    "./partials/jsx.js"
+    "./partials/jsx.js",
+    "./partials/proposals.js"
   ]
 };

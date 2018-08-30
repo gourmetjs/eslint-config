@@ -1,0 +1,4 @@
+{
+  "extends": "../../gourmet_app.js",
+  "root": true
+}
