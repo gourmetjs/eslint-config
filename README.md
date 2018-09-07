@@ -28,3 +28,8 @@ You can choose a configuration set based on the type of your target environment 
 - `react`: React Isomorphic App
 - `gourmet_app`: Gourmet applications
 - `gourmet_lib`: Gourmet libraries using CommonJS only
+
+# Installing additional packages
+
+`eslint-config-gourmet` requires the following additional packages as peerDependencies.
+You should install them, side by side.

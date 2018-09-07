@@ -8,12 +8,15 @@
   "scripts": {
     "test": "eslint test/**"
   },
-  "dependencies": {
-    "babel-eslint": "^9.0.0",
-    "eslint-plugin-babel": "^5.1.0",
-    "eslint-plugin-react": "^7.11.1"
-  },
   "devDependencies": {
-    "eslint": "^5.4.0"
+    "babel-eslint": "^9.0.0",
+    "eslint-plugin-babel": "^5.2.0",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint": "^5.5.0"
+  },
+  "peerDependencies": {
+    "babel-eslint": "*",
+    "eslint-plugin-babel": "*",
+    "eslint-plugin-react": "*"
   }
 }

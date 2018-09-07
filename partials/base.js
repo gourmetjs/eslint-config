@@ -4,7 +4,7 @@ module.exports = {
     indent: ["error", 2, {SwitchCase: 1}],
     quotes: ["error", "double", {avoidEscape: true}],
     semi: ["error", "always"],
-    strict: ["error", "global"],
+    strict: 0,
     eqeqeq: ["error", "smart"],
     "no-redeclare": ["error", {builtinGlobals: true}],
     "no-caller": "error",

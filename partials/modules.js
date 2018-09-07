@@ -2,7 +2,7 @@ module.exports = {
   parserOptions: {
     sourceType: "module",
     ecmaFeatures: {
-      impliedStrict: true
+      impliedStrict: false
     }
   }
 };
