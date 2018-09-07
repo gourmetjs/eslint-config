@@ -33,3 +33,7 @@ You can choose a configuration set based on the type of your target environment 
 
 `eslint-config-gourmet` requires the following additional packages as peerDependencies.
 You should install them, side by side.
+
+- `babel-eslint`
+- `eslint-plugin-babel`
+- `eslint-plugin-react`
