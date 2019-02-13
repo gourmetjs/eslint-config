@@ -51,7 +51,7 @@ As noted above, `eslint-config-gourmet` requires additional packages per your ch
 npm install eslint-plugin-react@7 --save-dev
 
 # For `gourmet_app`
-`npm install eslint-plugin-react@7 babel-eslint@10 eslint-plugin-babel@5 --save-dev`
+npm install eslint-plugin-react@7 babel-eslint@10 eslint-plugin-babel@5 --save-dev
 ```
 
 > These additional packages are not specified as `peerDependencies` by `eslint-config-gourmet` because they are not required for some configurations.
