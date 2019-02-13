@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-gourmet",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "description": "ESLint shareable config for the Gourmet style",
   "license": "MIT",
   "repository": "https://github.com/gourmetjs/eslint-config",
@@ -9,13 +9,13 @@
     "test": "eslint test/**"
   },
   "devDependencies": {
-    "babel-eslint": "^9.0.0",
-    "eslint-plugin-babel": "^5.2.0",
-    "eslint-plugin-react": "^7.11.1",
-    "eslint": "^5.5.0"
+    "babel-eslint": "^10.0.1",
+    "eslint-plugin-babel": "^5.3.0",
+    "eslint-plugin-react": "^7.12.4",
+    "eslint": "^5.13.0"
   },
-  "peerDependencies": {
-    "babel-eslint": "9",
+  "__peerDependencies__": {
+    "babel-eslint": "10",
     "eslint-plugin-babel": "5",
     "eslint-plugin-react": "7"
   }

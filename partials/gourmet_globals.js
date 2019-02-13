@@ -3,7 +3,6 @@ module.exports = {
     DEBUG: true,
     SERVER: true,
     CLIENT: true,
-    STAGE: true,
-    __gourmet_module__: true
+    STAGE: true
   }
 };
